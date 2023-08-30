@@ -1,2 +1,2 @@
 #!/bin/bash
-rm cmd/my_file_directory/betty
+rm betty tmp/my_file_directory/betty
